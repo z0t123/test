@@ -1,0 +1,22 @@
+.brd1 
+	{ 
+    width: 200 px;
+	text-align: center;
+    padding: 5px;
+	border-collapse: collapse;
+    border-style: double;
+	}
+.brd1 td
+	{
+	border-style: double;
+	}
+.brd2
+	{
+    border: 0px;
+    padding: 0px;
+	color: #FF0000;
+	}
+.brd2 td
+	{
+	border-style: 0px;
+	}
